@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/0242ac8c-3c1e-48cc-b881-6868731ddeca.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/0242ac8c-3c1e-48cc-b881-6868731ddeca.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/1a84c9b4-125b-405c-b957-bd78bc38eb30.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/1a84c9b4-125b-405c-b957-bd78bc38eb30.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/25dcc9f3-7c63-4832-89e7-e07ac9b5974a.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/25dcc9f3-7c63-4832-89e7-e07ac9b5974a.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/2eaf668f-c09a-45d6-af62-3a30248e283f.jpg",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/2eaf668f-c09a-45d6-af62-3a30248e283f.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/53761b66-3a4d-40cb-b519-c3869c1b3236.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/53761b66-3a4d-40cb-b519-c3869c1b3236.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/68b84507-2d69-4580-a374-d7234d76fdfc.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/68b84507-2d69-4580-a374-d7234d76fdfc.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/707a5604-ace6-4d04-948a-cdf3c6015ab1.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/707a5604-ace6-4d04-948a-cdf3c6015ab1.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/c45175c8-6243-4ba4-8d95-8d337fbf7878.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/c45175c8-6243-4ba4-8d95-8d337fbf7878.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/d8b22384-41ef-4ea4-afc1-1e931bf09528.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/d8b22384-41ef-4ea4-afc1-1e931bf09528.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/f1de68f5-5085-4048-910e-e6c0df4ce38d.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/f1de68f5-5085-4048-910e-e6c0df4ce38d.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/f527142a-15ac-4183-ae20-de5b467b086b.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/f527142a-15ac-4183-ae20-de5b467b086b.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/filamentosFotos/ff284b81-5fe3-4ced-b4db-2080ee10326d.png",
+      "PackagePath": "staticwebassets/uploads/filamentosFotos/ff284b81-5fe3-4ced-b4db-2080ee10326d.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/01e396fa-07b0-43ef-95a1-6efffba02b52.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/01e396fa-07b0-43ef-95a1-6efffba02b52.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/157b7311-7191-4814-a404-b2d6deb4b3ae.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/157b7311-7191-4814-a404-b2d6deb4b3ae.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/1b02c3bd-1bf8-4da7-bf18-2f3a44e34cef.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/1b02c3bd-1bf8-4da7-bf18-2f3a44e34cef.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/1bf65478-e001-4d88-aebc-2a6a7b96a388.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/1bf65478-e001-4d88-aebc-2a6a7b96a388.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/5120b74d-baa4-4070-94e2-53a562af1fb6.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/5120b74d-baa4-4070-94e2-53a562af1fb6.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/6569be5e-94ef-414a-b5b1-f771d2253dad.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/6569be5e-94ef-414a-b5b1-f771d2253dad.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/74ac765b-02d6-483a-ae16-97d9f78564df.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/74ac765b-02d6-483a-ae16-97d9f78564df.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/88c72376-340b-4365-ab03-b1d633181afa.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/88c72376-340b-4365-ab03-b1d633181afa.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/8995b1e9-7270-4906-a90d-62d3a50a65e7.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/8995b1e9-7270-4906-a90d-62d3a50a65e7.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/8f85f3ef-84f5-49e2-ab0a-40970e7155fe.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/8f85f3ef-84f5-49e2-ab0a-40970e7155fe.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/a7470bcf-485c-45cd-b733-3eb6f0f07f34.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/a7470bcf-485c-45cd-b733-3eb6f0f07f34.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/b5f567f3-3a7e-4d6d-846a-cf158b03cf57.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/b5f567f3-3a7e-4d6d-846a-cf158b03cf57.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/b958b796-47f1-4e97-b762-94a25bb4bc78.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/b958b796-47f1-4e97-b762-94a25bb4bc78.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/c1ddc53c-c95b-4752-af98-c9de79c5dedf.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/c1ddc53c-c95b-4752-af98-c9de79c5dedf.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/c52ca1dc-4784-4b7f-b0b8-1316797cdfaa.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/c52ca1dc-4784-4b7f-b0b8-1316797cdfaa.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/d1868c19-1c01-49c3-8958-5f22288053bd.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/d1868c19-1c01-49c3-8958-5f22288053bd.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/d4a3d40d-ba39-48a5-ba57-bd462c782a11.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/d4a3d40d-ba39-48a5-ba57-bd462c782a11.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/d950a58b-71f1-4f99-93b1-2d486c11eef8.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/d950a58b-71f1-4f99-93b1-2d486c11eef8.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/f28657ed-dcff-4e49-9fb5-03c31036ebb5.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/f28657ed-dcff-4e49-9fb5-03c31036ebb5.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/f30037f9-448d-40e5-8b5b-744537fe3162.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/f30037f9-448d-40e5-8b5b-744537fe3162.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/f74e788a-a434-42c9-8370-1763ed040b9c.stl",
+      "PackagePath": "staticwebassets/uploads/gcodes/f74e788a-a434-42c9-8370-1763ed040b9c.stl"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/gcodes/fd662d19-ad49-4f75-9d1a-381c3c31ab47.gcode",
+      "PackagePath": "staticwebassets/uploads/gcodes/fd662d19-ad49-4f75-9d1a-381c3c31ab47.gcode"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/1ceb0e91-9454-46d6-bcd6-bb3fc6c6286a.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/1ceb0e91-9454-46d6-bcd6-bb3fc6c6286a.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/2672aca1-83c4-4b1f-afe9-3f091578a5ce.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/2672aca1-83c4-4b1f-afe9-3f091578a5ce.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/32c9731b-ef0a-47e6-9d8e-4bd43d3f628e.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/32c9731b-ef0a-47e6-9d8e-4bd43d3f628e.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/375156ec-0cbf-4eb0-8c76-3dd686797e94.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/375156ec-0cbf-4eb0-8c76-3dd686797e94.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/3b7fb5bd-d95d-4cbb-8214-58f9956f76fd.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/3b7fb5bd-d95d-4cbb-8214-58f9956f76fd.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/3f3beabe-f39e-4fae-ab72-ad31044d9455.svg",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/3f3beabe-f39e-4fae-ab72-ad31044d9455.svg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/497b3d33-61dd-4bd5-83ae-10d40d2caf58.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/497b3d33-61dd-4bd5-83ae-10d40d2caf58.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/5398305b-98a0-4544-9f4d-e34c6aea389c.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/5398305b-98a0-4544-9f4d-e34c6aea389c.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/60158835-8542-4133-b796-bb543dd1a0ef.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/60158835-8542-4133-b796-bb543dd1a0ef.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/64759e83-9d73-4b02-ad61-24f80f5ff09d.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/64759e83-9d73-4b02-ad61-24f80f5ff09d.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/6cb89fdd-dde6-4d34-9a3d-8be1760fbaaa.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/6cb89fdd-dde6-4d34-9a3d-8be1760fbaaa.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/7625f337-dcc7-4e7f-8c48-8ce1bd0203b9.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/7625f337-dcc7-4e7f-8c48-8ce1bd0203b9.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/7ca1caf6-3af5-414d-9134-15318c225037.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/7ca1caf6-3af5-414d-9134-15318c225037.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/878324f0-3b53-4e78-9d63-c07ff96ebb33.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/878324f0-3b53-4e78-9d63-c07ff96ebb33.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/894984c9-222f-46e3-9abf-7a6b7db010f5.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/894984c9-222f-46e3-9abf-7a6b7db010f5.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/898b0cc7-9192-4b36-b64d-3fb5440d40c8.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/898b0cc7-9192-4b36-b64d-3fb5440d40c8.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/8c306df8-c946-4e11-9553-aeb34e7c0a84.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/8c306df8-c946-4e11-9553-aeb34e7c0a84.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/8c6ea2d2-ac2b-4e0e-acaa-a03a745cd9bc.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/8c6ea2d2-ac2b-4e0e-acaa-a03a745cd9bc.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/92144935-34ec-4ed8-be23-dd687bc36319.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/92144935-34ec-4ed8-be23-dd687bc36319.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/9219b55a-745d-4abf-80ec-47724eece7a0.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/9219b55a-745d-4abf-80ec-47724eece7a0.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/a2887182-b34a-495e-b295-e1ca50578b2d.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/a2887182-b34a-495e-b295-e1ca50578b2d.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/ace64596-6238-4f39-9522-8440c203595a.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/ace64596-6238-4f39-9522-8440c203595a.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/bbeca99e-a4d1-44ab-b586-d6d43637b954.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/bbeca99e-a4d1-44ab-b586-d6d43637b954.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/c0c77fce-8108-4306-b0c7-f076d9647725.jpg",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/c0c77fce-8108-4306-b0c7-f076d9647725.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/cb5e181a-9619-42ca-95d5-728d4231145f.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/cb5e181a-9619-42ca-95d5-728d4231145f.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/d80d77af-3465-45b2-b00a-b02a9c198310.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/d80d77af-3465-45b2-b00a-b02a9c198310.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/dbc77710-64a9-4635-b2a3-ff3ca09b4bbd.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/dbc77710-64a9-4635-b2a3-ff3ca09b4bbd.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/e2e661b5-4613-4e7d-99e4-5b18d8cf8b83.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/e2e661b5-4613-4e7d-99e4-5b18d8cf8b83.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/e8b10d53-7fc6-4cf0-83cf-b4c0da4e291b.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/e8b10d53-7fc6-4cf0-83cf-b4c0da4e291b.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/fbebc52b-d70b-4568-8b0e-08958cde7466.jpg",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/fbebc52b-d70b-4568-8b0e-08958cde7466.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/ff3d3b42-7b28-4c5f-852e-72cde63c1fb0.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/ff3d3b42-7b28-4c5f-852e-72cde63c1fb0.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/impresorasFotos/ff4959fb-587f-4198-9b44-8076d8196182.png",
+      "PackagePath": "staticwebassets/uploads/impresorasFotos/ff4959fb-587f-4198-9b44-8076d8196182.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/0604185d-8f7b-4489-8093-959bf294ee0d.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/0604185d-8f7b-4489-8093-959bf294ee0d.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/120c390b-0ac5-4f2b-8a51-6b6637cc6942.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/120c390b-0ac5-4f2b-8a51-6b6637cc6942.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/14764dde-d2b3-4e9b-abb1-8100f03feb19.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/14764dde-d2b3-4e9b-abb1-8100f03feb19.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/1778c47e-0409-41a3-b542-f6b9b326826a.png",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/1778c47e-0409-41a3-b542-f6b9b326826a.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/23b309dc-b04f-453e-8770-61bb8d61a7bf.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/23b309dc-b04f-453e-8770-61bb8d61a7bf.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/2a619349-da54-4b85-8d70-ac9c3a35dbbe.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/2a619349-da54-4b85-8d70-ac9c3a35dbbe.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/3dbbd331-72f8-4b49-8c41-a3ad2fdb3218.png",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/3dbbd331-72f8-4b49-8c41-a3ad2fdb3218.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/4e713d06-a7c9-446e-aa50-60a5e99afc31.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/4e713d06-a7c9-446e-aa50-60a5e99afc31.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/590ab0a4-83fd-43c4-9268-19e6361514c8.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/590ab0a4-83fd-43c4-9268-19e6361514c8.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/6070ebdd-8a8d-4eb4-bf0c-99f004c43d79.PNG",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/6070ebdd-8a8d-4eb4-bf0c-99f004c43d79.PNG"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/655a9ad6-ef1d-4212-9091-768763ab22c4.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/655a9ad6-ef1d-4212-9091-768763ab22c4.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/6cd22c8a-f4b7-4de8-ac2e-81f291939dc5.png",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/6cd22c8a-f4b7-4de8-ac2e-81f291939dc5.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/6f921742-2020-44b9-9541-81c48da24feb.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/6f921742-2020-44b9-9541-81c48da24feb.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/7298e455-57dc-4c1e-9aa2-620624063773.png",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/7298e455-57dc-4c1e-9aa2-620624063773.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/7f624f63-b5e3-4ce9-8b0e-d0037337bdc8.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/7f624f63-b5e3-4ce9-8b0e-d0037337bdc8.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/8ec88dd9-7916-43e8-8bc0-897027974b3f.png",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/8ec88dd9-7916-43e8-8bc0-897027974b3f.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/8f99049f-efb4-481d-9775-c6807698d9ad.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/8f99049f-efb4-481d-9775-c6807698d9ad.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/9cf0e05b-bae6-409e-97fe-a6219b920573.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/9cf0e05b-bae6-409e-97fe-a6219b920573.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/b1b9bc2e-2628-4ab9-a975-be568bfa1a94.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/b1b9bc2e-2628-4ab9-a975-be568bfa1a94.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/b457ed15-5298-45c6-86b7-90927b7c4450.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/b457ed15-5298-45c6-86b7-90927b7c4450.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/b972e2b6-ec1d-4a84-98ed-515af26c1a51.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/b972e2b6-ec1d-4a84-98ed-515af26c1a51.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/d17a49a5-1834-49f2-a355-2320f1e0265e.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/d17a49a5-1834-49f2-a355-2320f1e0265e.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/d51561ae-9f98-4192-8a81-82c52268a3a7.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/d51561ae-9f98-4192-8a81-82c52268a3a7.jpg"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/ef3ccac0-29c5-4adc-afa3-e467040db9ef.png",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/ef3ccac0-29c5-4adc-afa3-e467040db9ef.png"
+    },
+    {
+      "Id": "/home/hibi/Documents/snacks/C#/10mo cuatrimestre/propietarios/proyectoSistemaPropietarios/wwwroot/uploads/usuariosFotos/f4b714b1-1f47-4535-ae44-5f000c224792.jpg",
+      "PackagePath": "staticwebassets/uploads/usuariosFotos/f4b714b1-1f47-4535-ae44-5f000c224792.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.proyectoSistemaPropietarios.props",
+      "PackagePath": "build\\proyectoSistemaPropietarios.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.proyectoSistemaPropietarios.props",
+      "PackagePath": "buildMultiTargeting\\proyectoSistemaPropietarios.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.proyectoSistemaPropietarios.props",
+      "PackagePath": "buildTransitive\\proyectoSistemaPropietarios.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.proyectoSistemaPropietarios.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

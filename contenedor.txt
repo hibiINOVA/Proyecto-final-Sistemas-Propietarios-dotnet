@@ -1,0 +1,31 @@
+docker run -d \
+--name proyectoSistemasPropietarios \
+-e 'ACCEPT_EULA=Y' \
+-e 'MSSQL_SA_PASSWORD=P1aSSwOrd!' \
+-p 1433:1433 \
+mcr.microsoft.com/azure-sql-edge
+
+
+comando para entrar:
+sqlcmd -S localhost,1433 -U sa -P P1aSSwOrd! -C
+
+Instalar Paquetes de EF Core:
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet restore
+
+dotnet add package Microsoft.EntityFrameworkCore --version 8.0.0
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 8.0.0
+dotnet restore
+
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.0
+
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer --version 8.0.0
+
+dotnet add package FluentValidation
+
