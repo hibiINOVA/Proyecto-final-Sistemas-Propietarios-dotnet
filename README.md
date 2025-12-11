@@ -316,7 +316,7 @@ Una vez que el proyecto esté clonado en tu máquina, navega al directorio princ
 
 dotnet restore
 
-(Nota: Los comandos dotnet add package... listados son para el desarrollo inicial; dotnet restore es el comando que el usuario final debe ejecutar.)
+(Nota: Los comandos dotnet add package... listados son para el desarrollo inicial; dotnet restore es el comando que el usuario final debe ejecutar. Los archivos code deben generados en slicer como cura o plusaslicer.)
 
 Ejecutar Migraciones de EF Core: Una vez que las dependencias se hayan restaurado, ejecuta las migraciones para crear la base de datos proyectoImpresion3d y sus tablas en el contenedor de SQL Server: (Asume que las migraciones ya existen en el proyecto.)
 Bash
