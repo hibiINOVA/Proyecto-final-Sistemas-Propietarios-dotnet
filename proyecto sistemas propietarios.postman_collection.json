@@ -1,0 +1,968 @@
+{
+	"info": {
+		"_postman_id": "e82d78ed-e1e5-4bd8-a468-77f41c14a890",
+		"name": "proyecto sistemas propietarios",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36028860",
+		"_collection_link": "https://exploretech-9570.postman.co/workspace/sistemas-propietarios~aaca2000-9c2c-4b07-a372-d2a3698bfa68/collection/36028860-e82d78ed-e1e5-4bd8-a468-77f41c14a890?action=share&source=collection_link&creator=36028860"
+	},
+	"item": [
+		{
+			"name": "crud usuarios",
+			"item": [
+				{
+					"name": "crear",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "nombre",
+									"value": "jose",
+									"type": "text"
+								},
+								{
+									"key": "apellido",
+									"value": "garcia morales",
+									"type": "text"
+								},
+								{
+									"key": "correo",
+									"value": "josemanuel@gmail.com",
+									"type": "text"
+								},
+								{
+									"key": "contrasena",
+									"value": "123456",
+									"type": "text"
+								},
+								{
+									"key": "foto",
+									"type": "file",
+									"src": "/home/hibi/Pictures/friendly-ghost.jpg"
+								}
+							],
+							"options": {
+								"formdata": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}usuario",
+							"host": [
+								"{{base_url}}usuario"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener todos",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}usuario",
+							"host": [
+								"{{base_url}}usuario"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener uno",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}usuario/{{usuarioId}}",
+							"host": [
+								"{{base_url}}usuario"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "modificar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "nombre",
+									"value": "Alexito",
+									"type": "text"
+								},
+								{
+									"key": "apellido",
+									"value": "López",
+									"type": "text"
+								},
+								{
+									"key": "correo",
+									"value": "alex@example.com",
+									"type": "text"
+								},
+								{
+									"key": "contrasena",
+									"value": "123456",
+									"type": "text"
+								},
+								{
+									"key": "foto",
+									"type": "file",
+									"src": "/home/hibi/Pictures/drive.png"
+								}
+							],
+							"options": {
+								"formdata": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{base_url}}usuario/{{usuarioId}}",
+							"host": [
+								"{{base_url}}usuario"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "eliminar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}usuario/{{usuarioId}}",
+							"host": [
+								"{{base_url}}usuario"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "crud filamentos",
+			"item": [
+				{
+					"name": "crear",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "tipo",
+									"value": "PETG",
+									"type": "text"
+								},
+								{
+									"key": "marca",
+									"value": "eSun",
+									"type": "text"
+								},
+								{
+									"key": "color",
+									"value": "Rojo",
+									"type": "text"
+								},
+								{
+									"key": "diametro",
+									"value": "1.75",
+									"type": "text"
+								},
+								{
+									"key": "precioPorKg",
+									"value": "420",
+									"type": "text"
+								},
+								{
+									"key": "foto",
+									"type": "file",
+									"src": "/home/hibi/Pictures/coursera.png"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}filamento/{{usuarioId}}",
+							"host": [
+								"{{base_url}}filamento"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener todos",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{base_url}}filamento/{{usuarioId}}",
+							"host": [
+								"{{base_url}}filamento"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener uno",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{base_url}}filamento/{{usuarioId}}/{{filamentoId}}",
+							"host": [
+								"{{base_url}}filamento"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{filamentoId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "modificar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "tipo",
+									"value": "NYLON",
+									"type": "text"
+								},
+								{
+									"key": "marca",
+									"value": "eSun",
+									"type": "text"
+								},
+								{
+									"key": "color",
+									"value": "negro",
+									"type": "text"
+								},
+								{
+									"key": "diametro",
+									"value": "1.75",
+									"type": "text"
+								},
+								{
+									"key": "precioPorKg",
+									"value": "420",
+									"type": "text"
+								},
+								{
+									"key": "foto",
+									"type": "file",
+									"src": "/home/hibi/Pictures/klipartz.com(1).png"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}filamento/{{usuarioId}}/{{filamentoId}}",
+							"host": [
+								"{{base_url}}filamento"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{filamentoId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "eliminar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{base_url}}filamento/{{usuarioId}}/{{filamentoId}}",
+							"host": [
+								"{{base_url}}filamento"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{filamentoId}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "crud impresoras",
+			"item": [
+				{
+					"name": "crear",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "modelo",
+									"value": "Ender 3 v3 ke",
+									"type": "text"
+								},
+								{
+									"key": "marca",
+									"value": "Creality",
+									"type": "text"
+								},
+								{
+									"key": "precio",
+									"value": "5500",
+									"type": "text"
+								},
+								{
+									"key": "tipoExtrusion",
+									"value": "Bowden",
+									"type": "text"
+								},
+								{
+									"key": "diametroBoquilla",
+									"value": "0.4",
+									"type": "text"
+								},
+								{
+									"key": "velocidadDeImpresion",
+									"value": "120",
+									"type": "text"
+								},
+								{
+									"key": "costoDeLuzPorHora",
+									"value": "0.8",
+									"type": "text"
+								},
+								{
+									"key": "foto",
+									"type": "file",
+									"src": "/home/hibi/Pictures/klipartz.com.png"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}impresora/{{usuarioId}}",
+							"host": [
+								"{{base_url}}impresora"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener todos",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{base_url}}impresora/{{usuarioId}}",
+							"host": [
+								"{{base_url}}impresora"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener uno",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{base_url}}impresora/{{usuarioId}}/{{impresoraId}}",
+							"host": [
+								"{{base_url}}impresora"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{impresoraId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "modificar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "modelo",
+									"value": "core uno",
+									"type": "text"
+								},
+								{
+									"key": "marca",
+									"value": "prusa",
+									"type": "text"
+								},
+								{
+									"key": "precio",
+									"value": "55000",
+									"type": "text"
+								},
+								{
+									"key": "tipoExtrusion",
+									"value": "Bowden",
+									"type": "text"
+								},
+								{
+									"key": "diametroBoquilla",
+									"value": "0.4",
+									"type": "text"
+								},
+								{
+									"key": "velocidadDeImpresion",
+									"value": "120",
+									"type": "text"
+								},
+								{
+									"key": "costoDeLuzPorHora",
+									"value": "0.8",
+									"type": "text"
+								},
+								{
+									"key": "foto",
+									"type": "file",
+									"src": "/home/hibi/Pictures/klipartz.com.png"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}impresora/{{usuarioId}}/{{impresoraId}}",
+							"host": [
+								"{{base_url}}impresora"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{impresoraId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "eliminar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": []
+						},
+						"url": {
+							"raw": "{{base_url}}impresora/{{usuarioId}}/{{impresoraId}}",
+							"host": [
+								"{{base_url}}impresora"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{impresoraId}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "crud cotizacion",
+			"item": [
+				{
+					"name": "crear",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "archivoGcode",
+									"type": "file",
+									"src": "/home/hibi/Downloads/Cute Wolf.gcode"
+								},
+								{
+									"key": "nombre",
+									"value": "cute wolf",
+									"type": "text"
+								},
+								{
+									"key": "descripcion",
+									"value": "llavero de un cute wolf",
+									"type": "text"
+								},
+								{
+									"key": "iva",
+									"value": "16",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}cotizacion/{{usuarioId}}/{{impresoraId}}/{{filamentoId}}",
+							"host": [
+								"{{base_url}}cotizacion"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{impresoraId}}",
+								"{{filamentoId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener todos",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}cotizacion/{{usuarioId}}",
+							"host": [
+								"{{base_url}}cotizacion"
+							],
+							"path": [
+								"{{usuarioId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "obtener uno",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}cotizacion/{{usuarioId}}/{{cotizacionId}}",
+							"host": [
+								"{{base_url}}cotizacion"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{cotizacionId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "modificar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "archivoGcode",
+									"value": "",
+									"type": "file"
+								},
+								{
+									"key": "aplicarIva",
+									"value": "true",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}cotizacion/{{usuarioId}}/{{impresoraId}}/{{filamentoId}}",
+							"host": [
+								"{{base_url}}cotizacion"
+							],
+							"path": [
+								"{{usuarioId}}",
+								"{{impresoraId}}",
+								"{{filamentoId}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "eliminar",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "{{token}}",
+									"type": "string"
+								}
+							]
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}cotizacion{{usuarioId}}/{{cotizacionId}}",
+							"host": [
+								"{{base_url}}cotizacion{{usuarioId}}"
+							],
+							"path": [
+								"{{cotizacionId}}"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"if (pm.response.code === 200) {",
+							"    var jsonData = pm.response.json();",
+							"    if (jsonData.token) {",
+							"        pm.collectionVariables.set(\"token\", jsonData.token);",
+							"        pm.test(\"Token almacenado en variable de colección\", function () {",
+							"            pm.expect(pm.collectionVariables.get(\"token\")).to.eql(jsonData.token);",
+							"        });",
+							"    } else {",
+							"        pm.test(\"La respuesta no contiene la propiedad 'token'\", function () {",
+							"            pm.expect(jsonData.token).to.exist;",
+							"        });",
+							"    }",
+							"} else {",
+							"    pm.test(\"Respuesta no exitosa\", function () {",
+							"        pm.expect(pm.response.code).to.eql(200);",
+							"    });",
+							"}"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"correo\": \"josemanuel@gmail.com\",\n    \"contrasena\":\"123456\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{base_url}}auth/login",
+					"host": [
+						"{{base_url}}auth"
+					],
+					"path": [
+						"login"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://localhost:5292/api/",
+			"type": "string"
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "usuarioId",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "filamentoId",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "impresoraId",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "cotizacionId",
+			"value": "",
+			"type": "string"
+		}
+	]
+}
