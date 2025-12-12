@@ -5,6 +5,10 @@ El proyecto consiste en una Plataforma Web API diseñada para automatizar la ges
 
 El propósito principal es solucionar el problema de calcular manualmente los costos reales de impresión (filamento, energía, desgaste, margen de error e impuestos). La API estandariza y agiliza este proceso, optimizando la rentabilidad y reduciendo errores humanos, lo cual es ideal tanto para el uso personal avanzado como para talleres de impresión medianos.
 
+# Video demostrativo
+
+[![Ver video](https://img.youtube.com/vi/e8kVDAjAC_w/maxresdefault.jpg)](https://youtu.be/e8kVDAjAC_w)
+
 ## 1.Funcionalidades Principales
 
 La plataforma se centra en dos áreas clave: la gestión de recursos (CRUDS) y el cálculo de cotizaciones automáticas.
@@ -345,3 +349,4 @@ dotnet run
 # 4. Colección de Postman
 
 [Uploading proyecto sistemas propietarios.postman_collection.json…]()
+
